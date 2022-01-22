@@ -1,1 +1,1 @@
-# just-tech-news
+# u-develop-it
